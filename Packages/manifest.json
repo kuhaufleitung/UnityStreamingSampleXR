@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.hololight.stream": "file:C:/Users/Win11Gaming/Downloads/Hololight-Stream-SDK-Trial/Packages/com.hololight.stream-2024.0.0.tgz",
+    "com.hololight.stream.mrtk3": "file:C:/Users/Win11Gaming/Downloads/Hololight-Stream-SDK-Trial/Packages/com.hololight.stream.mrtk3-2024.0.0.tgz",
+    "com.microsoft.mrtk.graphicstools.unity": "file:C:/Users/Win11Gaming/Downloads/com.microsoft.mrtk.graphicstools.unity-0.8.1.tgz",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.feature.vr": "1.0.0",
@@ -13,6 +16,10 @@
     "com.unity.xr.management": "4.4.0",
     "com.unity.xr.oculus": "4.5.1",
     "com.unity.xr.openxr": "1.14.1",
+    "org.mixedrealitytoolkit.core": "file:C:/Users/Win11Gaming/Downloads/org.mixedrealitytoolkit.core-3.2.2.tgz",
+    "org.mixedrealitytoolkit.input": "file:C:/Users/Win11Gaming/Downloads/org.mixedrealitytoolkit.input-3.2.2.tgz",
+    "org.mixedrealitytoolkit.standardassets": "file:C:/Users/Win11Gaming/Downloads/org.mixedrealitytoolkit.standardassets-3.2.0.tgz",
+    "org.mixedrealitytoolkit.uxcore": "file:C:/Users/Win11Gaming/Downloads/org.mixedrealitytoolkit.uxcore-3.2.2.tgz",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
